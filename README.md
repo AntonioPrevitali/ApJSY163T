@@ -86,5 +86,5 @@ Kwh export = 0.00
 
 ## here is the website of the manufacturer of these good meters https://www.jsypowermeter.com/
 
-here is a video of my test https://youtube.com/shorts/EOPEXRELhN8
+here is a video of my test https://youtube.com/shorts/E0PEXRELhN8
 
